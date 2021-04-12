@@ -15,7 +15,7 @@
 <h2>1. Valmistelevat toimenpiteet</h2>
 <p>1.1 Aseta Powershell execution policy komennolla: "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine"</p>
 <p>1.2 Asenna Git-työkalut koneellesi. <a href="https://github.com/git-guides/install-git#:~:text=To%20install%20Git%2C%20navigate%20to,installation%20by%20typing%3A%20git%20version%20.">Ohje</a>.</p>
-<p>1.3 Kopioi/kloonaa tämä Github repository paikalliselle koneellesi. (komento: "git clone https://github.com/ArrowFi-Tech-Insights/MigrationLZ.git")</p>
+<p>1.3 Kopioi/kloonaa tämä Github repository paikalliselle koneellesi. (komento: "git clone https://github.com/ArrowFi-Concepts/AzureMigrationLZ.git")</p>
 <p>1.4 Asenna Powershell modulit. (Powershell-komento: Install-Module -Name Az, Az.Blueprint, Az.ManagedServiceIdentity)</p>
 <p>1.5 Luo Azure AD-ryhmä hallinta-tenanttiin. AD-ryhmän jäsenet saavat contributor-tason oikeudet loppuasiakkaan subscriptioniin.</p>
 <p>1.6 Luo Azure AD-ryhmä loppuasiakkaan-tenanttiin, jolle annetaan key vaultin käyttöoikeus.</p>
