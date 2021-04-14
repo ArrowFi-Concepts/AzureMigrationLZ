@@ -1,5 +1,6 @@
 <h1>Azure CAF Migration Landingzone</h1>
 <p>Tässä Git Repositoryssa on esimerkki miten provisioidaan Microsoft Cloud Adaptation Frameworkin Migration Landingzone esimerkki blueprint loppuasiakkaan Azure subscriptioniin Azure Lighthousella.</p>
+<p><a href="https://youtu.be/LzceOhRUwes">Ohjevideo</a></p>
 <p>Tarvittavat asiat:</p>
 <ul>
 <li>Git-komentorivityökalut.</li>
