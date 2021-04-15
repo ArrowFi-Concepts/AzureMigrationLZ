@@ -1,7 +1,7 @@
 <h1>Azure CAF Migration Landingzone</h1>
 <p>Tässä Git repositoryssa on esimerkki miten provisioidaan Migration Landingzone blueprint loppuasiakkaan Azure subscriptioniin Azure Lighthousea hyödyntäen.</p>
 <p><a href="https://youtu.be/LzceOhRUwes">Ohjevideo</a></p>
-<p>Blueprint provisioi seuraavat asiat:</p>
+<p>Blueprint provisioi seuraavat resurssit:</p>
 <ul>
   <li>Shared Services resurssiryhmä</li>
   <li>Networks resurssiryhmä</li>
